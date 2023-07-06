@@ -2,7 +2,7 @@
 api_key = ""
 api_secret = ""
 #Telegramm
-RECIPIENT_ID = 499178878
+RECIPIENT_ID = 11111111111
 bot_token = ""
 #Other Configuration
 symbols = {'ETHUSDT', 'BTCUSDT', 'BNBUSDT'}
